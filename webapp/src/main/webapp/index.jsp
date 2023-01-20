@@ -1,2 +1,2 @@
-<h1> Hello Team, This is my first project </h1>
+<h1> Hello, This is my first project </h1>
 
